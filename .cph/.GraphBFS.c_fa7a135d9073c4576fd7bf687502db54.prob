@@ -1,0 +1,1 @@
+{"name":"Local: GraphBFS","url":"d:\\TAI LIEU\\C\\CodeSource\\GraphBFS.c","tests":[{"id":1706308242092,"input":"10 9\n1 2\n1 3\n1 4\n4 5\n4 6\n3 8\n7 8\n8 9\n9 10","output":"Connected component 1: 1 2 3 \nConnected component 2: 4 5 6 7"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TAI LIEU\\C\\CodeSource\\GraphBFS.c","group":"local","local":true}

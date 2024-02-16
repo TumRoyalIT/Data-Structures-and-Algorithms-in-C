@@ -1,0 +1,1 @@
+{"name":"Local: algorithmKruskalForGraph","url":"d:\\TAI LIEU\\C\\CodeSource\\algorithmKruskalForGraph.c","tests":[{"id":1706312288558,"input":"5 6\n0 1 4\n1 2 4\n2 3 5\n1 3 1\n4 1 2\n4 3 3","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TAI LIEU\\C\\CodeSource\\algorithmKruskalForGraph.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: HashOverStrings","url":"d:\\TAI LIEU\\C\\CodeSource\\HashOverStrings.c","tests":[{"id":1704314639708,"input":"4 1000\na\nab\nabc\nabcd","output":"97\n930\n179\n924"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\TAI LIEU\\C\\CodeSource\\HashOverStrings.c","group":"local","local":true}
